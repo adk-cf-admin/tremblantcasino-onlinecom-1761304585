@@ -1,0 +1,19 @@
+{
+  "name": "Casino de Mont-Tremblant ",
+  "short_name": "Casino de Mont-Tremblant ",
+  "theme_color": "",
+  "background_color": "#119CD1",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1761231854-logo-casino-de-mont-tremblant-16x9-cr1.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
